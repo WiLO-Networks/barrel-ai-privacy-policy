@@ -1,4 +1,4 @@
-# Privacy Policy for Barrel AI
+# Barrel AI Privacy Policy
 
 **Effective Date:** July 24, 2025
 **Last Updated:** July 24, 2025
