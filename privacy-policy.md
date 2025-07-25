@@ -58,9 +58,9 @@ To exercise these rights or for any privacy-related questions, please contact us
 ## Contact Us
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-WiLO Networks Inc.
+- WiLO Networks Inc.
 145 Graham Avenue, Lexington, KY 40506, USA
 
-Email: info@wilonetworks.com
+- Email: info@wilonetworks.com
 
 By using the App, you signify your acceptance of this Privacy Policy. If you do not agree to this policy, please do not use the App.
