@@ -1,6 +1,6 @@
 # Barrel AI Privacy Policy
 
-**Effective Date:** July 24, 2025
+**Effective Date:** July 25, 2025
 **Last Updated:** July 25, 2025
 
 ## Introduction
@@ -17,9 +17,9 @@ We use this information to create and maintain your account, display your identi
 Microsoft and Google may collect additional information about you in accordance with their privacy policies when you use their sign-in services. For more information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement) and the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## Data Storage and Security
-[Information we collect](#information-collected) is securely stored using Microsoft Entra ID. To keep you signed in and provide a seamless app experience, we securely store authentication details on your device using encrypted storage (Keychain for iOS, Keystore for Android). These details are removed when you log out of the App or uninstall it.
+We take your privacy and data security seriously. [Information we collect](#information-collected) is securely stored using Microsoft Entra ID. We apply industry-standard security practices, including encryption and secure communication (HTTPS), to protect your data from unauthorized access, alteration, or disclosure.
 
-Please note that your email address is not stored in encrypted storage, as we believe it does not pose a significant security risk. However, we still implement industry-standard security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. This includes using HTTPS for secure communication.
+For a seamless experience, authentication details are stored securely on your device in encrypted storage (Keychain for iOS and Keystore for Android) and are automatically removed when you log out or uninstall the app.
 
 ## Data Usage
 We use the email address and company name provided during account creation to display your identity within the App and send marketing communications related to our products and services.
