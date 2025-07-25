@@ -6,8 +6,9 @@
 ## Introduction
 WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Barrel AI (the "App"). Please read this Privacy Policy carefully. By using the App, you agree to the terms of this Privacy Policy.
 
+<a id="information-collected"></a>
 ## Information We Collect
-When you create an account or log in to the App using Microsoft Entra ID External Identities or Google Sign-In, we collect the following information:
+When you create an account or log in to the App, we collect the following information:
 - Email address
 - Company name
 
@@ -16,11 +17,9 @@ We use this information to create and maintain your account, display your identi
 Microsoft and Google may collect additional information about you in accordance with their privacy policies when you use their sign-in services. For more information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement) and the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## Data Storage and Security
-The refresh and access tokens obtained from Microsoft Entra ID and Google Sign-In are securely stored on your device using encrypted storage (Keychain for iOS, Keystore for Android). These tokens are deleted when you log out of the App or uninstall it.
+[information we collect](#information-collected) is securely stored in Microsoft Entra ID. To keep you signed in and to provide seamless app experience, refresh and access tokens obtained from Microsoft Entra ID are securely stored on your device using encrypted storage (Keychain for iOS, Keystore for Android). These tokens are deleted when you log out of the App or uninstall it.
 
 Please note that your email address is not stored in encrypted storage, as we believe it does not pose a significant security risk. However, we still implement industry-standard security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. This includes using HTTPS for secure communication.
-
-The App does not have a backend server for data storage. All data is stored locally on your device.
 
 ## Data Usage
 We use the email address and company name provided during account creation to display your identity within the App and send marketing communications related to our products and services.
@@ -36,7 +35,7 @@ You have the right to request deletion of your account and associated personal d
 4. You will receive confirmation once your account has been deleted
 
 Upon account deletion, we will:
-- Remove your account from Microsoft Entra ID External Identities or Google Sign-In
+- Remove your account from Microsoft Entra ID External Identities
 - Delete your email address and company name from our records
 - Any locally stored data on your device will be removed when you uninstall the App
 
