@@ -8,15 +8,9 @@ WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privac
 
 <a id="information-collected"></a>
 ## Information We Collect
-We collect your email address when you create an account or log in to the App.
+We collect your email address when you create an account or sign in to the App. We use this information to create and maintain your account, display your identity within the App, provide the App's functionality, and send marketing communications.
+If you choose to sign in using your Apple, Google, or Microsoft account, your email address may be shared with us, depending on your settings with these platforms. These platforms may also collect and use your data in line with their own privacy policies: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), [Google Privacy Policy](https://policies.google.com/privacy), and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
 
-We use this information to create and maintain your account, display your identity within the App, provide the App's functionality, and send marketing communications. We do not collect any other personal data.
-
-When you sign in using Microsoft, Google, or Apple, these providers may collect and use your information based on their own privacy policies. To learn more about how each service handles your data, please review their respective policies:
-
-- [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)  
-- [Google Privacy Policy](https://policies.google.com/privacy)  
-- [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
 ## Data Storage and Security
 We take your privacy and data security seriously. [Information we collect](#information-collected) is securely stored using Microsoft Entra ID. We apply industry-standard security practices, including encryption and secure communication (HTTPS), to protect your data from unauthorized access, alteration, or disclosure.
