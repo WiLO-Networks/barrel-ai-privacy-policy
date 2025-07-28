@@ -13,15 +13,15 @@ When you create an account or log in to the App, we collect the following inform
 
 We use this information to create and maintain your account, display your identity within the App, provide the App's functionality, and send marketing communications. We do not collect any other personal data.
 
-    Microsoft and Google may collect additional information about you in accordance with their privacy policies when you use their sign-in services. For more information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), the [Google Privacy Policy](https://policies.google.com/privacy), and the [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+Microsoft, Google, and Apple may collect additional information about you in accordance with their privacy policies when you use their sign-in services. For more information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), the [Google Privacy Policy](https://policies.google.com/privacy), and the [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
 
 ## Data Storage and Security
 We take your privacy and data security seriously. [Information we collect](#information-collected) is securely stored using Microsoft Entra ID. We apply industry-standard security practices, including encryption and secure communication (HTTPS), to protect your data from unauthorized access, alteration, or disclosure.
 
-For a seamless experience, authentication details are stored securely on your device in encrypted storage (Keychain for iOS and Keystore for Android) and are automatically removed when you log out or uninstall the app.
+For a seamless experience, authentication details are stored securely on your device using encrypted storage (Keychain for iOS and Keystore for Android). These details are automatically deleted when you log out. On Android, they are also removed upon app uninstallation. On iOS, they may persist after uninstall but are cleared by the app during logout.
 
 ## Data Usage
-We use the email address and company name provided during account creation to display your identity within the App and send marketing communications related to our products and services.
+We use the email address provided during account creation to display your identity within the App and send marketing communications related to our products and services.
 
 We do not use your personal data for any other purposes, such as analytics or advertising.
 
@@ -35,7 +35,7 @@ You have the right to request deletion of your account and associated personal d
 
 Upon account deletion, we will:
 - Remove your account from Microsoft Entra ID
-- Delete your email address and company name from our records
+- Delete your email address from our records
 - Any locally stored data on your device will be removed when you uninstall the App<br>
 
 ## Children's Privacy
