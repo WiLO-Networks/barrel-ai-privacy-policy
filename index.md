@@ -1,7 +1,7 @@
 # Barrel AI Privacy Policy
 
 **Effective Date:** July 25, 2025
-**Last Updated:** July 25, 2025
+**Last Updated:** July 28, 2025
 
 ## Introduction
 WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Barrel AI (the "App"). Please read this Privacy Policy carefully. By using the App, you agree to the terms of this Privacy Policy.
@@ -10,7 +10,6 @@ WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privac
 ## Information We Collect
 We collect your email address when you create an account or sign in to the App. We use this information to create and maintain your account, display your identity within the App, provide the App's functionality, and send marketing communications.
 If you choose to sign in using your Apple, Google, or Microsoft account, your email address may be shared with us. These platforms may also collect and use your data in line with their own privacy policies: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), [Google Privacy Policy](https://policies.google.com/privacy), and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
-
 
 ## Data Storage and Security
 We take your privacy and data security seriously. [Information we collect](#information-collected) is securely stored using Microsoft Entra ID. We apply industry-standard security practices, including encryption and secure communication (HTTPS), to protect your data from unauthorized access, alteration, or disclosure.
@@ -33,7 +32,7 @@ You have the right to request deletion of your account and associated personal d
 Upon account deletion, we will:
 - Remove your account from Microsoft Entra ID
 - Delete your email address from our records
-- All data stored on your device will be erased when you request account deletion from the app.<br>
+- Erase all app data stored on your device when you request account deletion through the app.<br>
 
 ## Children's Privacy
 The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us so we can promptly remove it.
