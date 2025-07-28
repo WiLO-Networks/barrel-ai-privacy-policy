@@ -8,17 +8,20 @@ WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privac
 
 <a id="information-collected"></a>
 ## Information We Collect
-When you create an account or log in to the App, we collect the following information:
-- Email address
+We collect your email address when you create an account or log in to the App.
 
 We use this information to create and maintain your account, display your identity within the App, provide the App's functionality, and send marketing communications. We do not collect any other personal data.
 
-Microsoft, Google, and Apple may collect additional information about you in accordance with their privacy policies when you use their sign-in services. For more information, please refer to the [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), the [Google Privacy Policy](https://policies.google.com/privacy), and the [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+When you sign in using Microsoft, Google, or Apple, these providers may collect and use your information based on their own privacy policies. To learn more about how each service handles your data, please review their respective policies:
+
+- [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)  
+- [Google Privacy Policy](https://policies.google.com/privacy)  
+- [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
 
 ## Data Storage and Security
 We take your privacy and data security seriously. [Information we collect](#information-collected) is securely stored using Microsoft Entra ID. We apply industry-standard security practices, including encryption and secure communication (HTTPS), to protect your data from unauthorized access, alteration, or disclosure.
 
-For a seamless experience, authentication details are stored securely on your device using encrypted storage (Keychain for iOS and Keystore for Android). These details are automatically deleted when you log out. On Android, they are also removed upon app uninstallation. On iOS, they may persist after uninstall but are cleared by the app during logout.
+For a seamless experience, authentication details are stored securely on your device using encrypted storage. These are automatically deleted when you log out of the app.
 
 ## Data Usage
 We use the email address provided during account creation to display your identity within the App and send marketing communications related to our products and services.
@@ -36,7 +39,7 @@ You have the right to request deletion of your account and associated personal d
 Upon account deletion, we will:
 - Remove your account from Microsoft Entra ID
 - Delete your email address from our records
-- Any locally stored data on your device will be removed when you uninstall the App<br>
+- All data stored on your device will be erased when you request account deletion from the app.<br>
 
 ## Children's Privacy
 The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us so we can promptly remove it.
