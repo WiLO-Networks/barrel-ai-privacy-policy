@@ -9,7 +9,7 @@ WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privac
 <a id="information-collected"></a>
 ## Information We Collect
 We collect your email address when you create an account or sign in to the App. We use this information to create and maintain your account, display your identity within the App, provide the App's functionality, and send marketing communications.
-If you choose to sign in using your Apple, Google, or Microsoft account, your email address may be shared with us, depending on your settings with these platforms. These platforms may also collect and use your data in line with their own privacy policies: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), [Google Privacy Policy](https://policies.google.com/privacy), and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+If you choose to sign in using your Apple, Google, or Microsoft account, your email address may be shared with us. These platforms may also collect and use your data in line with their own privacy policies: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), [Google Privacy Policy](https://policies.google.com/privacy), and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
 
 
 ## Data Storage and Security
