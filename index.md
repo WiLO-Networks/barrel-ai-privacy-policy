@@ -1,14 +1,15 @@
 # Barrel AI Privacy Policy
 
-**Effective Date:** July 25, 2025  
-**Last Updated:** August 14, 2025  
+**Effective Date:** August 14, 2025
+**Last Updated:** August 14, 2025
 
 ## Introduction
 WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Barrel AI (the "App"). Please read this Privacy Policy carefully. By using the App, you agree to the terms of this Privacy Policy.
 
 <a id="information-collected"></a>
 ## Information We Collect
-We collect your email address when you create an account or sign in to the App. This information is used to create and maintain your account and display your identity within the App. If you choose to sign in using your Apple, Google, or Microsoft account, your email address is shared with us through these authentication services. These platforms may also collect and use your data in line with their own privacy policies: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), [Google Privacy Policy](https://policies.google.com/privacy), and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
+
+We collect your email address when you create an account or sign in to the App. This information is used to create and maintain your account and display your identity within the App. If you choose to sign in using your Apple, Google, or Microsoft account, your email address may be shared with us through these authentication services. These platforms may also collect and use your data in line with their own privacy policies: [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement), [Google Privacy Policy](https://policies.google.com/privacy), and [Apple Privacy Policy](https://www.apple.com/legal/privacy/en-ww/).
 
 If you choose to request a free WiLO Tag through the App, we collect your email address to process and fulfill your request. If you subscribe to email updates while making this request, we will use your email address to send you email updates.
 
@@ -16,12 +17,12 @@ We may collect warehouse names you create through the App to display warehouse o
 
 To enable monitoring and tracking of your previously purchased WiLO sensors/tags, we collect device status information. We may also collect location coordinates for your sensors/tags if you choose to provide them. This location information is used for rendering the services (such as building 3D plots of your warehouse) you may have requested and consented to when purchasing WiLO sensors and tags.
 
-To maintain authentication and provide optimal performance, the App temporarily stores authentication tokens and your email address securely on your device by encrypting them. This information is automatically cleared and removed from your device when you log out.
+To maintain authentication and provide optimal performance, the App temporarily stores authentication tokens, your email address, and an organization identifier (randomly generated UUID) securely on your device after encrypting them. This information is automatically cleared and removed from your device when you log out.
 
 ## Data Storage and Security
-We take your privacy and data security seriously. Your login credentials are managed through Microsoft Entra ID, an enterprise-grade identity service that provides secure authentication. Any information collected from the app about your warehouses, and sensors/tags is stored securely on our servers with encryption both in transit using HTTPS and at rest. Access to your data is restricted to you.
+We take your privacy and data security seriously. Your login credentials are managed through Microsoft Entra ID, an enterprise-grade identity service that provides secure authentication. Any information collected from the app about your warehouses, and sensors/tags is stored securely on our servers with encryption both in transit using HTTPS and at rest. Access to your data is restricted to you and approved users from your organization/business.
 
-For a seamless experience, authentication details are stored securely on your device using encrypted storage and are automatically deleted when you log out of the app. All other information we collect is securely stored on our servers for as long as needed to provide the core functioanlity of the app.
+For a seamless experience, authentication details are stored securely on your device using encrypted storage and are automatically deleted when you log out of the app. All other information we collect is securely stored on our servers for as long as needed to provide the core functionality of the app. Upon account deletion, all your account information and associated data will be permanently deleted within 2-3 business days.
 
 ## Data Usage
 We use the information we collect to verify your identity, provide core features of the App, and display relevant account information such as warehouse and device details. Your email address is used to display your identity within the App, process and confirm your request for a free WiLO Tag if applicable, and send marketing communications only if you have chosen to subscribe. You can unsubscribe from marketing emails at any time using the link provided in each message.
@@ -34,7 +35,7 @@ You have the right to request deletion of your account and associated personal d
 **In-App Deletion** – From the Profile screen, select **Request Account Deletion** and confirm. This will:
    - Submit a deletion request to our system
    - Sign you out and erase all app data from your phone
-   - Permanently delete your account and associated data within 2–3 business days<br>
+   - Permanently delete your account and associated data within 2–3 business days
 
 ## Children's Privacy
 The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us so we can promptly remove it.
