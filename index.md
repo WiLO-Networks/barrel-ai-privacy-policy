@@ -19,6 +19,8 @@ To enable monitoring and tracking of your previously purchased WiLO sensors/tags
 
 To maintain authentication and provide optimal performance, the App temporarily stores authentication tokens, your email address, and an organization identifier (randomly generated UUID) securely on your device after encrypting them. This information is automatically cleared and removed from your device when you log out.
 
+To notify you about new App features and critical alerts in your warehouse, we use Firebase Cloud Messaging. Firebase may collect data in accordance with their privacy policy: [Firebase Privacy and Data Disclosure Policy](https://firebase.google.com/docs/android/play-data-disclosure). You may choose to deny notification permissions, and you can disable notifications at any time from your device settings.
+
 ## Data Storage and Security
 We take your privacy and data security seriously. Your login credentials are managed through Microsoft Entra ID, an enterprise-grade identity service that provides secure authentication. Any information collected from the app about your warehouses, and sensors/tags is stored securely on our servers with encryption both in transit using HTTPS and at rest. Access to your data is restricted to you and approved users from your organization/business.
 
