@@ -1,7 +1,7 @@
 # Barrel AI Privacy Policy
 
 **Effective Date:** August 14, 2025
-**Last Updated:** August 14, 2025
+**Last Updated:** August 22, 2025
 
 ## Introduction
 WiLO Networks Inc. ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Barrel AI (the "App"). Please read this Privacy Policy carefully. By using the App, you agree to the terms of this Privacy Policy.
